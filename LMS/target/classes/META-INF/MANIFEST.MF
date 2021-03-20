@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: LMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: amit
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_20
+Implementation-URL: https://spring.io/projects/spring-boot/LMS
+Created-By: Maven Integration for Eclipse
+
